@@ -7,7 +7,7 @@ import json
 import base64
 
 # Configure API key for Gemini 2.2
-API_KEY = "AIzaSyBA4YLMiH8Dv7BI4IdWe8b76eJOdGtR5qw"
+API_KEY = ""
 genai.configure(api_key=API_KEY)
 
 # Create the model configuration for Gemini 2.2
