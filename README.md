@@ -1,4 +1,4 @@
-# Gen-AI Travel Planner
+# AI-Powered-Itinerary-Generator
 
 Gen-AI Travel Planner is a user-friendly Travel Itinerary Generator built with Streamlit and powered by Google's PaLM (Gemini 2.2) model for advanced text generation. Plan your dream trip effortlessly and get personalized itineraries tailored to your preferences.
 
