@@ -29,9 +29,9 @@ def extract_cheapest_flights(flight_data):
     sorted_flights = sorted(best_flights, key=lambda x: x.get("price", float("inf")))[:3]  # Get top 3 cheapest
     return sorted_flights
 
-SERPAPI_KEY = "0b94868e78d63bfec41dcee02f7d89f0fb6dadc4fbf679a02349c1428072610a" 
+SERPAPI_KEY =  
 # Configure API key for Gemini 2.2 using an environment variable for better security
-API_KEY = "AIzaSyAw04tZ7jDVeAE7VhGYrzrWXiJIUtyCee0"
+API_KEY =  
 genai.configure(api_key=API_KEY)
 
 # Create the model configuration for Gemini 2.2
