@@ -6,8 +6,7 @@ import folium
 from streamlit_folium import st_folium
 
 # --- Configuration ---
-SERPAPI_KEY = os.getenv("SERPAPI_KEY", "0b94868e78d63bfec41dcee02f7d89f0fb6dadc4fbf679a02349c1428072610a")
-
+SERPAPI_KEY = 
 # --- Function to explore destinations ---
 def explore_destinations(city: str, departure_date: str, return_date: str, limit: int = 8):
     """
